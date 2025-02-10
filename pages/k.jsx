@@ -1,4 +1,6 @@
-  import { IBM_Plex_Sans } from "next/font/google";
+
+"use client"; /////////////
+import { IBM_Plex_Sans } from "next/font/google";
   import "./globals.css";
   import { useState } from "react"; // Import useState for state management
   import { useRouter } from "next/router";
