@@ -1,3 +1,4 @@
+"use client"; 
 import { IBM_Plex_Sans } from "next/font/google";
 import "./globals.css";
 
